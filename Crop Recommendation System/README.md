@@ -1,12 +1,7 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyushAgnihotri2025%2FSmartCrop%2F&count_bg=%2379C83D&title_bg=%23555555&icon=overleaf.svg&icon_color=%23E7E7E7&title=SmartCrop:+Intelligent+Crop+Recommendation&edge_flat=false)](https://github.com/AyushAgnihotri2025/Crop-Recommender)
 
-# SmartCrop: Intelligent Crop Recommendation
+# [Crop Recommendation System]()
 
-## Theme: AgroTech
 
-<p align="center">
-   <img width="50%" src="https://user-images.githubusercontent.com/106915790/232244703-f44b3a75-1565-41ab-aab1-5fe4cb745383.jpg" />
-</p>
 
 The agriculture industry is one of the most significant contributors to the global economy, providing food, jobs, and income for millions of people. However, the sector has been facing numerous challenges that limit its productivity and profitability. One of the most significant challenges is inadequate knowledge of crop selection and management practices, leading to suboptimal yields and reduced profitability.
 
@@ -24,10 +19,10 @@ There are various technologies used in implementing crop recommendation using ma
 
 In conclusion, crop recommendation using machine learning is a powerful solution that can revolutionize the agriculture industry. By leveraging the power of machine learning algorithms and advanced technologies, the solution can provide personalized recommendations to farmers on the best crops to grow in their specific conditions. This can help optimize yields, improve profitability, and promote sustainable farming practices.
 
-# [Use of Google Cloud Services and AMD Instance]()
+### [Use of Google Cloud Services and AMD Instance]()
 SmartCrop is hosted on the Google Cloud platform, which provides a robust and scalable infrastructure for data storage and processing. To ensure fast and efficient processing of large datasets, SmartCrop utilizes AMD instances on Google Cloud. AMD instances provide high-performance computing capabilities, allowing SmartCrop to process vast amounts of data in real-time. With SmartCrop on Google Cloud with AMD instances, farmers can make data-driven decisions on crop selection and management practices, leading to optimized yields and improved profitability.
 
-# [Dataset]()
+### [Dataset]()
 This dataset was build by augmenting datasets of rainfall, climate and fertilizer data available for India.
 
 ### [Attributes information:]()
@@ -52,16 +47,10 @@ This dataset was build by augmenting datasets of rainfall, climate and fertilize
     * Training Score: 99.5%
     * Validation Score: 99.3%
 
-# Demo
-**Live Demo:** http://34.82.65.249:6620/ or https://smartcrop.mrayush.me
+### [Demo:]()
+**Live Demo:** http://192.168.222.45:8501 or http://localhost:8501
 
-**Video Demo:**
-
-
-https://user-images.githubusercontent.com/106915790/232326623-c265ab62-9497-485d-9aee-741309536b0b.mp4
-
-
-# References
+### [References:]()
 * https://www.prolim.com/crop-recommendation-system-using-machine-learning-for-digital-farming/
 * https://www.irjet.net/archives/V4/i12/IRJET-V4I12179.pdf
 * https://ieeexplore.ieee.org/document/8768790
